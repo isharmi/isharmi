@@ -35,8 +35,8 @@ Predicting second language reading proficiency from raw eye-fixation data.
 
 ---
 
-## 📌 Pinned Repositories
-1. **[EyeTracking-DeepLearning](https://github.com/isharmi/EyeTracking-DeepLearning)** – Main research project  
+## Repositories
+1. **[EyeTracking-DeepLearning](https://github.com/isharmi/EyeTracking-DeepLearning)** – research project  
 ---
 
 ## 📫 Connect with Me
