@@ -1,46 +1,56 @@
-# Hi, I’m Sharmi Islam 👋
+# Hi, I'm Sharmi Islam 👋
 
-M.Sc. in Data Science | Eye-Tracking & Deep Learning | PhD Aspirant  
+**MSc Data Science, HSE University | MSc Computer Science & Engineering, Daffodil International University**
 
-I am passionate about combining AI and cognitive science to understand human reading behavior and language proficiency. My research focuses on modeling eye-tracking data to predict second language (L2) reading proficiency using advanced deep learning architectures.
+I work on machine learning and deep learning problems involving sequential data, language, and medical applications. My recent research at HSE University focused on predicting second-language reading proficiency from eye-tracking data.
 
----
+## 🔬 Research Experience
 
-## 🔬 Featured Project
+**AI for Cognitive Sciences Lab | HSE University | 2023–2025**
 
-### **EyeTracking-DeepLearning**
-Predicting second language reading proficiency from raw eye-fixation data.  
-- Benchmarked 1D, 2D, and 3D deep learning architectures (CNN, LSTM, Vision Transformers)  
-- Attention-based models (ViT) achieved the best predictive performance  
-- Includes full pipeline: data preprocessing, model training, evaluation  
+- Built preprocessing and feature extraction pipelines for eye-fixation data.
+- Compared CNN, LSTM, ConvLSTM, Vision Transformer, and attention-based models.
+- Evaluated model performance using MAE, R², and MRAE.
+- Completed my MSc thesis on predicting L2 reading proficiency using eye-tracking sequences.
 
-[View Repository →](https://github.com/isharmi/EyeTracking-DeepLearning)
+[Read my MSc thesis](https://www.hse.ru/en/edu/vkr/1049386879)
 
----
+## 💻 Selected Projects
 
-## 🛠 Skills & Tools
+### [EyeTracking-DeepLearning](https://github.com/isharmi/EyeTracking-DeepLearning)
 
-- **Languages & Frameworks:** Python, PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy  
-- **Deep Learning:** CNN, LSTM, Attention/Vision Transformers, ConvLSTM  
-- **Data Analysis & Visualization:** Matplotlib, Seaborn, Plotly  
-- **Others:** Git, GitHub, Jupyter, Colab  
+Deep learning experiments for predicting language proficiency from eye-tracking data, including preprocessing, model training, and evaluation.
 
----
+### [BanglaMed-RAG](https://github.com/isharmi/banglamed-rag)
 
-## 📈 Highlights
+A lightweight medical document retrieval system using multilingual embeddings, FAISS, and retrieval-augmented generation.
 
-- M.Sc. thesis on **Predicting L2 language proficiency using eye-tracking data**  
-- Built multi-dimensional deep learning pipelines (1D, 2D, 3D)  
-- Expertise in hyperparameter tuning, model evaluation (MAE, R², MRAE), and reproducible research  
+### [Categorical-Bias-Multilingual](https://github.com/isharmi/Categorical-Bias-Multilingual)
 
----
+Machine learning experiments examining linguistic typology and multilingual bias prediction.
 
-## Repositories
-1. **[EyeTracking-DeepLearning](https://github.com/isharmi/EyeTracking-DeepLearning)** – research project  
----
+## 🎓 AddaLab
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharmi-islam)  
-- [Email](mailto:isharmi549@gmail.com)  
+I founded [AddaLab](https://addalab.org/), an AI/ML education initiative in Bangladesh.
 
-> “Combining human cognition with AI to decode the science of reading.”
+I am developing practical training in Python, data science, and machine learning, along with technical mentoring for students working on ML projects and research experiments.
+
+[AddaLab Website](https://addalab.org/) | [GitHub Repository](https://github.com/isharmi/addalab-website)
+
+## 🛠 Technical Skills
+
+- **Programming:** Python, SQL
+- **Deep Learning:** PyTorch, CNN, LSTM, ConvLSTM, Attention, Vision Transformers
+- **Machine Learning:** scikit-learn, CatBoost, LightGBM, XGBoost
+- **Data Processing:** Pandas, NumPy, feature engineering, time-series analysis
+- **Tools:** Git, Docker, Linux, Jupyter, FAISS
+
+## 📚 Research Profiles
+
+- [ORCID](https://orcid.org/0009-0000-9163-4268)
+- [MSc Thesis — HSE University](https://www.hse.ru/en/edu/vkr/1049386879)
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/sharmi-islam)
+- [Email](mailto:isharmi549@gmail.com)
